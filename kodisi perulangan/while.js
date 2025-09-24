@@ -13,5 +13,5 @@ i++;
 }
 
 //ubah ulang jadi false agar tidak mengulang lagi
-ulang = false;
+  ulang = false;
 } while (ulang);

@@ -1,0 +1,2 @@
+// Array awal berisi nilai siswa
+let nilai = []
